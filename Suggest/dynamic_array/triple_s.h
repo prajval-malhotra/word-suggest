@@ -1,6 +1,5 @@
 // This module provides a "Sorted Set of Strings" ADT (aka SSS / "Triple S")
 
-// SEASHELL_READONLY
 
 /*
   Sorted Set of Strings
